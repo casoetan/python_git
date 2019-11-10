@@ -1,0 +1,1 @@
+I begin my sorjourn into python progaraming
