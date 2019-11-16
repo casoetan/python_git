@@ -1,1 +1,1 @@
-I begin my sorjourn into python progaraming
+I begin my sorjourn into python progaraming. Loving the journey so far
