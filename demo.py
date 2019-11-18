@@ -13,7 +13,7 @@ from maths.area import (
     area_square,
     area_rectangle
 )
-Print('addition ', addition(6,4))
+print('addition ', addition(6,4))
 print('subtration ', subtraction(6,4))
 print('multiplication ', multiplication(6,4))
 print('exponential ',(6,4))
